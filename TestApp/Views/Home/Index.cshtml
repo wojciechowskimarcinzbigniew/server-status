@@ -1,0 +1,11 @@
+﻿@model DateTime
+@{
+    ViewData["Title"] = "Server status";
+}
+
+<div class="text-center text-primary">
+    <h1 class="display-4">Server running at:</h1>
+    <div class="text-center py-5 font-data">
+        <string>@Model.ToString()</string>
+    </div>
+</div>

@@ -1,0 +1,7 @@
+D:\WebProject\TestApp\bin\Release\net7.0\publish\TestApp.exe
+D:\WebProject\TestApp\bin\Release\net7.0\publish\appsettings.Development.json
+D:\WebProject\TestApp\bin\Release\net7.0\publish\appsettings.json
+D:\WebProject\TestApp\bin\Release\net7.0\publish\TestApp.dll
+D:\WebProject\TestApp\bin\Release\net7.0\publish\TestApp.deps.json
+D:\WebProject\TestApp\bin\Release\net7.0\publish\TestApp.runtimeconfig.json
+D:\WebProject\TestApp\bin\Release\net7.0\publish\TestApp.pdb
